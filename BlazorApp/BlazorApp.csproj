@@ -7,9 +7,9 @@
   </PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Syncfusion.Blazor.DataForm" Version="28.2.7" />
-		<PackageReference Include="Syncfusion.Blazor.SmartComponents" Version="28.2.7" />
-		<PackageReference Include="Syncfusion.Blazor.Themes" Version="28.2.7" />
+		<PackageReference Include="Syncfusion.Blazor.DataForm" Version="*" />
+		<PackageReference Include="Syncfusion.Blazor.SmartComponents" Version="*" />
+		<PackageReference Include="Syncfusion.Blazor.Themes" Version="*" />
 	</ItemGroup>
 
 </Project>

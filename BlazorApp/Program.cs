@@ -1,6 +1,7 @@
 using BlazorApp.Components;
 using Syncfusion.Blazor;
 using Syncfusion.Blazor.SmartComponents;
+using Syncfusion.Blazor.AI;
 
 var builder = WebApplication.CreateBuilder(args);
 
